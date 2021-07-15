@@ -4,4 +4,4 @@
 
 O codigo do crawler encontra-se em ps_birdie/ps_birdie/spiders/birdie_spider.py .
 
-Os dados dos produtos estāo localizados na pasta /ps_birdie.
+Os dados dos produtos estāo localizados na pasta ps_birdie/.
