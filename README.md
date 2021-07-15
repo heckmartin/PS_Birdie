@@ -1,6 +1,6 @@
 # Teste técnico para a vaga de Estágio em Web Crawling
 
-## Crawle para coleta de reviews de impressoras, televisores e refrigeradores do e-commerce Extra.
+### Crawler para coleta de reviews de impressoras, televisores e refrigeradores do e-commerce Extra.
 
 O codigo do crawler encontra-se em ps_birdie/spiders/birdie_spider.py.
 Os dados dos produtos estāo localizados na mesma pasta.
